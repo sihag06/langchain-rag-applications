@@ -82,7 +82,6 @@ youtube-transcript-api
 - Knowledge base search
 - Conversational AI
 
----
 
-**Happy Coding! 🚀**
+
 
